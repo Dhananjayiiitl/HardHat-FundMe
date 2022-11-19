@@ -1,0 +1,9 @@
+yarn hardhat deploy//deploy a script
+yarn hardhat compile//compile all contracts
+tweeking solidity code(style guide)
+
+uinit tests are done locally
+--local hardhat
+--forked hardhat
+
+Staging tests can be done on a testnet(LAST STOP!!!)
